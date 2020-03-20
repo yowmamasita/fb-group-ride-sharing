@@ -1,0 +1,14 @@
+{
+  "name": "fb-group-to-airtable",
+  "version": "1.0.0",
+  "description": "Sends all group's posts and comments to airtable",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ben Sarmiento <me@bensarmiento.com>",
+  "license": "ISC",
+  "dependencies": {
+    "fb": "^2.0.0"
+  }
+}
